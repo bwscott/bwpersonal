@@ -104,7 +104,7 @@ module.exports = {
                 route: node.url,
                 payload: node
               })
-            });
+            });            
 
             callback(null, routes);
 
