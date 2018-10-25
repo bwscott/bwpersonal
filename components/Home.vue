@@ -1,5 +1,8 @@
-<template>
-  <h1>HOME: {{ content.name }}</h1>
+<template>  
+  <div>
+    <h1>HOME: {{ content.name }}</h1>
+    <h2>Example heading <b-badge>New</b-badge></h2>
+  </div>
 </template>
 
 <script>
